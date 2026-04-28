@@ -12,11 +12,11 @@
 Диаграмма прецедентов (Use Case)  
 
 <img width="812" height="651" alt="1 drawio" src="https://github.com/user-attachments/assets/da1e77a7-f911-48c3-aa7e-9666405a1973" />
-
+        
 Диаграмма развёртывания (Deployment)  
 
 <img width="1516" height="1335" alt="Диаграмма развёртывания drawio" src="https://github.com/user-attachments/assets/15e0c64c-917a-4600-9def-26eaad185693" />
-
+            
 Состав репозитория
 
 Файл	 --   Описание
