@@ -4,8 +4,22 @@
 Проект по учебной практике (ПМ.02, день 2)
 Специальность: 09.02.07 — Информационные системы и программирование
 
-📄 Техническое задание
-📥 Скачать ТЗ (docx)
+Техническое задание
+Скачать ТЗ (docx)
+
 [Техническое задание.docx](https://github.com/user-attachments/files/27177433/default.docx)
 
-🧑‍💻 Диаграмма прецедентов (Use Case)
+Диаграмма прецедентов (Use Case)
+<img width="812" height="651" alt="1 drawio" src="https://github.com/user-attachments/assets/da1e77a7-f911-48c3-aa7e-9666405a1973" />
+
+Диаграмма развёртывания (Deployment)
+<img width="1516" height="1335" alt="Диаграмма развёртывания drawio" src="https://github.com/user-attachments/assets/15e0c64c-917a-4600-9def-26eaad185693" />
+
+Состав репозитория
+
+Файл	    Описание
+README.md	- Описание проекта
+Техническое задание.docx - Техническое задание на разработку сайта
+1.drawio.png	- Диаграмма прецедентов (Use Case)
+Диаграмма развёртывания.png -	Диаграмма развёртывания (Deployment)
+
